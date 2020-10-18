@@ -1,11 +1,15 @@
 # Data-Challenge-2020
 Team No: DC20063
+
 Dataset: Health Information National Trends Survey (HINTS5, Cycle 3) [Level 4] 
+
 Team Members: Sanaa Mironov (Undergraduate) and Sandesh Timilisina (Masters)
+
 School: UMBC
 
 
 ![alt text](https://github.com/sanaamironov/Data-Challenge-2020/blob/main/cover/nci-building.jpg)
+
 The U.S. National Cancer Institute (NCI) has been conducting the Health Information National Trends Survey (HINTS) since 2003 to learn about U.S. adults’ cancer-related perceptions and knowledge, their health behaviors, and their health-related information access, needs, seeking, and use. This survey is administered every few years to civilian, non-institutionalized adults in the U.S.
 
 Over the last few decades, there have been significant advancements in the field of diagnosing and treatment of various fatal diseases, including cancer [1]. However, there is still a considerable cost involved in the treatment and cure of such fatal diseases. According to the reports of the National Cancer Institute and Mesothelioma Center, more than 600,000 people lost their lives due to cancer, and 63% of the cancer patient family reported financial struggles following a cancer diagnosis [2,3]. With a focus on preventive measures and early diagnosis, both the number of cancer cases and the cost involved can be significantly reduced to achieve sustainability in the healthcare system.
